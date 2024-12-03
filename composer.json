@@ -1,0 +1,12 @@
+{
+  "name": "inkbox/pint-preset-laravel",
+  "description": "Our custom Pint preset for Laravel projects",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wade Striebel",
+      "email": "w.striebel@getinkbox.com"
+    }
+  ]
+}
